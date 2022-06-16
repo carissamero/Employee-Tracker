@@ -29,7 +29,7 @@ The focus of this homework assignment for the UT Austin Coding Boot Camp was to 
 
 The following video demonstrates the application's functionality.
 
-- [Video](https://drive.google.com/file/d/18n3AFslbHGkIRjhceDGeOPMmzOzgMxoo/view)
+- [Video](https://drive.google.com/file/d/18n3AFslbHGkIRjhceDGeOPMmzOzgMxoo/view)(Apologies if video is blurry)
 
 ## Screenshots
 
